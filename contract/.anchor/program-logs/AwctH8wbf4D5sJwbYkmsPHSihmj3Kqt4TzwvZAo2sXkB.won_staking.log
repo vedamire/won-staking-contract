@@ -1,0 +1,44 @@
+Streaming transaction logs mentioning AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB. Confirmed commitment
+Transaction executed in slot 5:
+  Signature: 5KG8HvpzxF1xjtcG5azxh8A3soSrshMGJXk827aszqHGDsPXbo1Xsob4AeBnEqYkF91sDcP9Fh6fWCcxYCWtffrU
+  Status: Ok
+  Log Messages:
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB invoke [1]
+    Program log: Instruction: InitializeWonConfig
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB consumed 21722 of 200000 compute units
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB success
+Transaction executed in slot 9:
+  Signature: Eik6FEMpUYXR5tjpxcMmQRNP4FmGguufJ1Rmc6v3BD4EUNrmDnuTaTqPrjUDufYxksNXE67xgmznTg689PACtwJ
+  Status: Ok
+  Log Messages:
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB invoke [1]
+    Program log: Instruction: StakeWonNft
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3412 of 177791 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 162849 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB consumed 43221 of 200000 compute units
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB success
+Transaction executed in slot 10:
+  Signature: KG5BAdbjiUFDcMp3QbRXSJEgLQgQG24p9ny1itWkeCgyR1HWPcf2tc65oqCNiU6ejyAVSXu88sxEN8qpHhrF5pP
+  Status: Ok
+  Log Messages:
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB invoke [1]
+    Program log: Instruction: UnstakeWonNft
+    Program log: Nft is withdrawn: DBLfP44YspVMb197Ga4wUdEkgyvymzivmUysL3Y7rpiM
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 171924 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB consumed 34025 of 200000 compute units
+    Program AwctH8wbf4D5sJwbYkmsPHSihmj3Kqt4TzwvZAo2sXkB success

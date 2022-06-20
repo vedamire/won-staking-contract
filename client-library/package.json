@@ -1,0 +1,41 @@
+{
+  "name": "won_staking_library",
+  "version": "0.0.1",
+  "description": "Client library for interacting with won staking solana program",
+  "keywords": [
+    "Solana"
+  ],
+  "author": "Vedamir Efanov",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --config jestconfig.json",
+    "format": "prettier --write \"src/**/*.ts\""
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "1.2.3",
+    "@metaplex/js": "4.12.0",
+    "@project-serum/anchor": "0.22.1",
+    "@solana/web3.js": "1.31.0",
+    "jsonwebtoken": "^8.5.1",
+    "solana-nft-metadata": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0",
+    "@types/chai": "^4.3.1",
+    "@types/jest": "^27.4.1",
+    "@types/mz": "^2.7.4",
+    "@types/node": "^17.0.23",
+    "@types/text-encoding": "^0.0.36",
+    "chai": "^4.3.6",
+    "jest": "^27.5.1",
+    "mz": "^2.7.0",
+    "prettier": "^2.6.2",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  }
+}

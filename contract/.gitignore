@@ -1,0 +1,12 @@
+client-library/node_modules
+*.js
+client-library/lib
+client-library/src/*.json
+client-library/src/__tests__/keys/*
+
+contract/.anchor
+contract/.DS_Store
+contract/target
+contract/**/*.rs.bk
+contract/node_modules
+contract/tests/keys/*
